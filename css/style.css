@@ -1,0 +1,32 @@
+#product_form{
+	margin: 30px 10px;
+	width: 550px;
+	height: 480px;
+}
+
+.box{
+	border-radius: 5px;
+	border: 3px solid black;
+	padding-bottom: 50px;
+	max-width: 76em;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
+
+.col-lg-3{
+	margin-top: 30px !important;
+}
+
+.delete-checkbox{
+	display: block;
+	margin:0px;
+	text-align:left;
+}
+
+footer{
+	text-align: center;
+	border-top: 2px solid black;
+	padding-top: 20px;
+	margin-top: 20px;
+}
